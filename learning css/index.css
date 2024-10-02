@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(241, 250, 215);
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+div {
+    font-size: 75px;
+    font-style: oblique;
+    color: rgb(250, 95, 95);
+}
+p {
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+}
